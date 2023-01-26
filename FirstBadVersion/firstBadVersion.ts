@@ -11,6 +11,7 @@ var solution = function (isBadVersion: any) {
   };
 };
 
+// Terrible time complexity
 var solution = function (isBadVersion: any) {
   return function (n: number): number {
     let i = 0;
